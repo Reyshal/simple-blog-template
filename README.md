@@ -9,7 +9,7 @@ This is one of my project to learn how responsive web work, so i followed tutori
 ## How it look
 
 Desktop :
-![Result For Desktop](https://github.com/Reyshal/simple-blog-template/tree/master/images/result-desktop.png)
+![Result For Desktop](https://raw.githubusercontent.com/Reyshal/simple-blog-template/tree/master/images/result-desktop.png)
 
 Mobile :
-![Result For Desktop](https://github.com/Reyshal/simple-blog-template/tree/master/images/result-mobile.png)
+![Result For Desktop](https://raw.githubusercontent.com/Reyshal/simple-blog-template/tree/master/images/result-mobile.png)
